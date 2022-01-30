@@ -1,4 +1,6 @@
-<a href="https://app.daily.dev/jonathandijv"><img src="https://api.daily.dev/devcards/87fa080fb99f4a5f8ebf32dc22cd4295.png?r=cmj" width="400" alt="Jonathan Vassia's Dev Card"/></a>
+<a href="https://app.daily.dev/jonathandijv"><img src="https://github.com/jojjio/jojjio/blob/master/devcard.svg" width="400" alt="Jonathan Vassia's Dev Card"/></a>
+
+<!--<a href="https://app.daily.dev/jonathandijv"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 <!--
 **jojjio/jojjio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
