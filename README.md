@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/jonathandijv"><img src="https://github.com/jojjio/jojjio/devcard.svg" width="400" alt="Jonathan Vassia's Dev Card"/></a>
+<a href="https://app.daily.dev/jonathandijv"><img src="https://github.com/jojjio/jojjio/main/devcard.svg" width="400" alt="Jonathan Vassia's Dev Card"/></a>
 
 <!--<a href="https://app.daily.dev/jonathandijv"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 <!--
